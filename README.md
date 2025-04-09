@@ -1,4 +1,4 @@
-# Weather-APP-API
+# Weather-App-API
 
 Weather App API:
 A simple desktop weather app using PyQt5 and OpenWeatherMap.
