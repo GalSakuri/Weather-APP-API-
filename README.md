@@ -17,14 +17,15 @@ Requirements:
 
 Installation:
 
-	1.	Clone the repo;
+1.	Clone the repo;
 
-  	git clone https://github.com/yourusername/weather-app-api.git
-  	cd weather-app-api
+  		git clone https://github.com/yourusername/weather-app-api.git
+  		cd weather-app-api
 
-  	2. Install the requried Library;
 
-  	pip install PyQt5 requests
+2. Install the requried Library;
+
+  		pip install PyQt5 requests
 
 
 
